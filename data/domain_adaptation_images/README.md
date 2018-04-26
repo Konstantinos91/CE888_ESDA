@@ -1,1 +1,1 @@
-Due to their size, dataset files are not uploaded.
+Due to their size, dataset files have not been uploaded. [office-31 dataset and its subfolders (amazon, webcam, dslr)]

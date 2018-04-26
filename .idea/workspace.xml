@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6e9394-eb92-4706-b7c4-1527cee8eac4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/data/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/domain_adaptation_images/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/domain_adaptation_images/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,10 +30,10 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/README.md">
+        <entry file="file://$PROJECT_DIR$/data/domain_adaptation_images/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+              <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -103,6 +104,7 @@
         <option value="$PROJECT_DIR$/venv/office_dataset_loading.py" />
         <option value="$PROJECT_DIR$/venv/mnistm_dataset_loading.py" />
         <option value="$PROJECT_DIR$/data/README.md" />
+        <option value="$PROJECT_DIR$/data/domain_adaptation_images/README.md" />
       </list>
     </option>
   </component>
@@ -142,6 +144,12 @@
             <path>
               <item name="CE888_ESDA" type="b2602c69:ProjectViewProjectNode" />
               <item name="CE888_ESDA" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="domain_adaptation_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CE888_ESDA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CE888_ESDA" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -157,6 +165,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/domain_adaptation_images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv" />
     </key>
@@ -337,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524749990340</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit.">
+      <created>1524750294737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524750294737</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -610,6 +628,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="74" lean-forward="true" selection-start-column="74" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/mnistm_dataset_loading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -620,10 +645,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/README.md">
+    <entry file="file://$PROJECT_DIR$/data/domain_adaptation_images/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
         </state>
       </provider>
     </entry>
